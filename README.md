@@ -174,7 +174,7 @@ flowchart LR
 
 **내가 한 일:** 가설 트리 · 지표 지도 · 원인 분해 · 통계 검증 · 대시보드 디자인 · **발표**
 
-🔗 [GitHub 저장소](https://github.com/Sicheol-Pyo/Aiffel_Project_2) · 📊 [인터랙티브 대시보드](https://sicheol-pyo.github.io/Aiffel_Project_2/starbucks_dashboard_page1_fixed.html)
+🔗 [GitHub 저장소](https://github.com/Sicheol-Pyo/Aiffel_Project_2) · 📊 [인터랙티브 대시보드](https://sicheol-pyo.github.io/Aiffel_Project_2/starbucks_offer_dashboard.html)
 
 <br>
 
