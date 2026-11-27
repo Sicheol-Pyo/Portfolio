@@ -32,7 +32,7 @@
 
 ## 👤 About
 
-- 🩺 **배경:** 간호학 전공 · **임상연구 경력 8년** (Clinical Data Management 6년 4개월 · CRC 1년 9개월)
+- 🩺 **배경:** 간호학 전공 · **임상연구 경력 8년** (Clinical Data Management 6년 6개월 · CRC 1년 9개월)
 - 🎓 **현재:** AIFFEL 데이터인텔리전스 1기 수강 중
 - 🎯 **지향:** 의료 · 헬스케어 데이터의 현장을 아는 엔지니어로서, 데이터 파이프라인과 AI 시스템을 **재현 가능하고 검증 가능하게** 만드는 AI · 데이터 엔지니어링 직무
 - 💡 **강점**
@@ -51,8 +51,8 @@
 
 | 기간 | 기관 | 역할 |
 |:---:|---|---|
-| 2024.01 ~ 2026.04 | DreamCIS | CDA (Clinical Data Associate, 2024.01 ~) · CDPL (Clinical Data Project Leader, 2024.12 ~) |
-| 2019.11 ~ 2023.10 | PROCURATIO | CDM (Clinical Data Manager) |
+| 2024.01 ~ 2026.05 | DreamCIS | CDA (Clinical Data Associate, 2024.01 ~) · CDPL (Clinical Data Project Leader, 2024.12 ~) |
+| 2019.11 ~ 2023.11 | PROCURATIO | CDM (Clinical Data Manager) |
 | 2018.02 ~ 2019.10 | 서울아산병원 | CRC (Clinical Research Coordinator) |
 
 ### 참여한 임상연구 · 39건
